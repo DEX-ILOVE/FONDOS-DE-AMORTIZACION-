@@ -8,6 +8,7 @@ Presentar los diferentes tipos de fondos de amortizacion. Detallar las distintas
 # CONTENIDO DE LA EXPOSICION 
 1.- Introduccion de los fondos de amortizacion.
 -Defincion y funcion  
-Demostrar como funciona los fondos de amortizacion, cual es su ficnion en las organizaciones y su circulo cotidiano.
-Analizar el comportamiento de la TABLA DE AMORTIZACION
-Demostrar con ejemplos practicos, proporcionar calculos y ejemplos que ilustren como funcionan los fondos de amortizacion en situaciones reales.
+2.-Demostrar como funciona los fondos de amortizacion, cual es su ficnion en las organizaciones y su circulo cotidiano.
+3.-Analizar el comportamiento de la TABLA DE AMORTIZACION
+4.-Demostrar con ejemplos practicos, proporcionar calculos y ejemplos que ilustren como funcionan los fondos de amortizacion en situaciones reales.
+5.- Conclusion 
